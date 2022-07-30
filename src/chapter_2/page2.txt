@@ -4,3 +4,5 @@ Update the print() function to print the value of name.last
 
 page 2
 text
+
+page 2 more information
