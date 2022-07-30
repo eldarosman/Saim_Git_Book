@@ -1,0 +1,6 @@
+INSTRUCTIONS
+Add a last property inside the name object and add a string as the value
+Update the print() function to print the value of name.last
+
+page 2
+text
